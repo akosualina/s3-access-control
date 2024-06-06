@@ -1,0 +1,10 @@
+echo "* text=auto" > .gitattributes
+echo "*.sh text eol=lf" >> .gitattributes
+echo "*.py text eol=lf" >> .gitattributes
+echo "*.json text eol=lf" >> .gitattributes
+echo "*.html text eol=lf" >> .gitattributes
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.html text eol=lf

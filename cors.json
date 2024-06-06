@@ -1,0 +1,17 @@
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "PUT",
+            "POST",
+            "DELETE"
+        ],
+        "AllowedOrigins": [
+            "http://bootcamp-s3-website.s3-website-us-east-1.amazonaws.com"
+        ],
+        "ExposeHeaders": []
+    }
+]
+
